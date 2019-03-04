@@ -1,12 +1,11 @@
 {
-  "name": "eadesignro/ro_ro",
+  "name": "marmureanuweb/magento2-romanian-language-pack",
   "description": "Romanian language pack for Magento 2 CE",
   "license": [
     "AL-2.0"
   ],
   "require": {
-    "magento/framework": "100.1.*",
-    "eadesignro/module-eacore": "~0.0.4"
+    "magento/framework": "100.1.*"
   },
   "type": "magento2-language",
   "version": "1.1.2",
